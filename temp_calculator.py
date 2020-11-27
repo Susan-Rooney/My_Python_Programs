@@ -1,5 +1,5 @@
 def temp_calculator(temperature):
-    celcius = (temperature-30) / 2
+    celcius = (temperature-30) / 4
     return celcius
 
 temperature = int(input("What fahrenheit temperature would you like to convert? "))
